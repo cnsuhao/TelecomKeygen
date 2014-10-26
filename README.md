@@ -14,7 +14,12 @@
 
 **How To**：
 
+## For Windows：
+
 ######include "md5.h" in the root folder of Crypto++ and compile with library file(cryptlib.lib).
+
+## For Linux：
+###### g++ main.cpp -o TelecomKeygen -std=c++11 -lcryptopp -lpthread
 
 #####Any problems please contact with :
 ######QQ：550305126
