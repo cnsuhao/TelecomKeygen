@@ -2,7 +2,7 @@
 #include <algorithm>
 #include <ctime>
 #include <string>
-#include "md5.h"
+#include <cryptopp/md5.h>
 
 #if WIN32
 #include <Windows.h>
